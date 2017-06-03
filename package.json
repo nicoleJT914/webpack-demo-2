@@ -15,5 +15,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://nicolejt914.github.io/webpack-demo-2"
+  "homepage": "https://nicolejt914.github.io/webpack-demo-2/build"
 }
